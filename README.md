@@ -6,6 +6,7 @@ SpeechAug is a task-independent acoustic augmentation toolkit for generating con
 <p align="center">
   <img src="assets/1.png" alt="SpeechAug acoustic augmentation tool overview" width="100%" height="600">
 </p>
+
 This repository provides the **SpeechAug** augmentation framework for evaluating speech-processing systems under realistic acoustic recording conditions. The tool modifies only the acoustic signal and is independent of the downstream task.
 
 It can be used for:
