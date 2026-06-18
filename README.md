@@ -25,9 +25,6 @@ The repository also includes scripts for preparing external acoustic resources s
 
 ## Overview
 
-**Project name:** SpeechAug  
-**Repository name:** `speechaug`
-
 The tool generates controlled acoustic variants from clean speech recordings. Given a clean speech dataset and a manifest file, it can produce:
 
 1. **Noisy speech**
