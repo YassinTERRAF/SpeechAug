@@ -174,18 +174,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Typical dependencies include:
-
-```text
-numpy
-scipy
-librosa
-soundfile
-pyyaml
-tqdm
-joblib
-```
-
 ---
 
 ## Downloading Full External Resources
