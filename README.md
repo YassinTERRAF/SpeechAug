@@ -726,16 +726,6 @@ Users are responsible for checking and respecting the licenses of any external d
 
 ---
 
-## Related Papers
-
-This repository is related to acoustic robustness experiments used in the following works:
-
-- Y. Terraf and Y. Iraqi, “CAT-Net: A Channel and Self-Attention TCN for Robust Frame-Level Overlapping Speech Detection,” *IEEE Transactions on Audio, Speech and Language Processing*, vol. 34, pp. 1184–1199, 2026.
-- Y. Terraf and Y. Iraqi, “TARNet: A Temporal-Aware Multi-Scale Architecture for Closed-Set Speaker Identification,” *arXiv preprint arXiv:2605.07735*, 2026.
-- Y. Terraf and Y. Iraqi, “Robust Feature Extraction Using Temporal Context Averaging for Speaker Identification in Diverse Acoustic Environments,” *IEEE Access*, vol. 12, pp. 14094–14115, 2024.
-- Y. Terraf and Y. Iraqi, “CoMISI: Multimodal Speaker Identification in Diverse Audio-Visual Conditions Through Cross-Modal Interaction,” in *Neural Information Processing*, Springer Nature Singapore, pp. 61–77, 2026.
-
----
 
 ## Citation
 
