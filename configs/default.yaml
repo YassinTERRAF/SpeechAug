@@ -1,0 +1,35 @@
+sample_rate: 16000
+seed: 2025
+
+snr_levels:
+  - -5
+  - 0
+  - 5
+  - 10
+  - 15
+  - 20
+
+noise_types:
+  - babble
+  - music
+  - noise
+  - awgn
+
+room_types:
+  - smallroom
+  - mediumroom
+  - largeroom
+
+rir_family: simulated_rirs
+
+conditions:
+  noisy: true
+  reverb: true
+  noisy_reverb: true
+
+keep_length: true
+normalize_rir_peak: false
+normalize_reverb_rms: false
+
+direct_threshold_fraction: 0.2
+preroll_ms: 1.0

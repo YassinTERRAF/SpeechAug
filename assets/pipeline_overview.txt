@@ -1,0 +1,12 @@
+Clean speech
+   |
+   |-- add noise at target SNR --------------------> noisy speech
+   |
+   |-- convolve with speech RIR -------------------> reverberant speech
+   |
+   |-- convolve speech with speech RIR
+       convolve environmental noise with noise RIR
+       add at target SNR --------------------------> noisy-reverberant speech
+
+For AWGN:
+   noisy-reverberant = reverberant speech + synthetic AWGN at target SNR
